@@ -24,11 +24,12 @@ This application is a schedule for workday hours (between 9 AM and 5pm) that all
 * THEN the saved events persist
 
 ## Deployed Application Link
-*
+* https://berheamanuel.github.io/daily-scheduler/
 
 ## Screenshot
 
-![alt text](assets/images/screenshot.png)
+![Sreenshot 1](./assets/images/Screenshot%202023-10-23%20143845.png)
+![Screenshot 2](./assets/images/Screenshot%202023-10-23%20144051.png)
 
 ## Technology Used
 * HTML
