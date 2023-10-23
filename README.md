@@ -1,4 +1,4 @@
-# Daily Scheduler
+# Workday Scheduler
 
 ## Description
 This application is a schedule for workday hours (between 9 AM and 5pm) that allows users to input a task in a time slot. Time slots in the past are listed in gray, the current time slot is listed in red, and future time slots are listed in green. The color indicator makes it easy for users to visualise their progress and to prioritize accordingly.
@@ -27,6 +27,8 @@ This application is a schedule for workday hours (between 9 AM and 5pm) that all
 *
 
 ## Screenshot
+
+![alt text](assets/images/screenshot.png)
 
 ## Technology Used
 * HTML
